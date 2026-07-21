@@ -95,8 +95,8 @@ class KerimKurt:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kekurttel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekurttel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
+  <img src="https://gh-readme-stats.vercel.app/api?username=kekurttel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=kekurttel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
 </p>
 
 <p align="center">
@@ -109,19 +109,19 @@ class KerimKurt:
 
 <p align="center">
   <a href="https://github.com/kekurttel/-KrackerBot-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=-KrackerBot-&theme=tokyonight&hide_border=true&bg_color=0d1117">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=-KrackerBot-&theme=tokyonight&hide_border=true&bg_color=0d1117">
   </a>
   <a href="https://github.com/kekurttel/zapret-gui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=zapret-gui&theme=tokyonight&hide_border=true&bg_color=0d1117">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=zapret-gui&theme=tokyonight&hide_border=true&bg_color=0d1117">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kekurttel/deb2arch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=deb2arch&theme=tokyonight&hide_border=true&bg_color=0d1117">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=deb2arch&theme=tokyonight&hide_border=true&bg_color=0d1117">
   </a>
   <a href="https://github.com/kekurttel/FastMcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=FastMcp&theme=tokyonight&hide_border=true&bg_color=0d1117">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=FastMcp&theme=tokyonight&hide_border=true&bg_color=0d1117">
   </a>
 </p>
 
