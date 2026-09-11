@@ -39,12 +39,12 @@ class KerimKurt:
         self.age = 15
         self.os = "Arch Linux"
         self.de = "KDE Plasma (Wayland)"
-        self.shell = "zsh + "Quickshell setup"
+        self.shell = "zsh + Quickshell"
         self.love = "hyprland"
         self.country = "Turkey"
         self.role = "Self-Taught Developer"
         self.drives = ["curiosity", "ambition", "break-build-learn"]
-        self.stack = ["Python", "Dart/Flutter", "JS", "Bash", "Linux"]
+        self.stack = ["Python", "C++", "Dart/Flutter", "TS/JS", "SQL", "Bash"]
 
     def daily_routine(self):
         while True:
@@ -84,13 +84,25 @@ class KerimKurt:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffd343">
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C">
+  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC">
   <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2">
   <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B">
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
-  <img src="https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
-  <img src="https://img.shields.io/badge/KDE_Plasma-000?style=for-the-badge&logo=kdeplasma&logoColor=1D99F3">
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933">
+  <img src="https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=electron&logoColor=47848F">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=003B57">
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1">
+  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
+  <img src="https://img.shields.io/badge/Qt_QML-000?style=for-the-badge&logo=qt&logoColor=41CD52">
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED">
+  <img src="https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
+  <img src="https://img.shields.io/badge/Hyprland-000?style=for-the-badge&logo=hyprland&logoColor=58E1FF">
+  <img src="https://img.shields.io/badge/KDE_Plasma-000?style=for-the-badge&logo=kdeplasma&logoColor=1D99F3">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">
 </p>
