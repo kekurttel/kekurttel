@@ -1,5 +1,4 @@
-
-```
+```text
                     -`
                    .o+`
                   `ooo/
@@ -21,17 +20,17 @@
  .`                                 `/
 ```
 
-<h2 align="center">👋 Merhaba, Ben Kerim!</h2>
+<h2 align="center">Kerim. Break it, learn it.</h2>
 <p align="center">
-  <b>15 yasinda self-taught developer · Arch Linux kullanicisi · Turkiye</b>
+  <b>15 y/o self-taught developer · Arch Linux · Turkey</b>
 </p>
 <p align="center">
-  <i>"I use Arch btw"</i>
+  <i>"I use Arch btw" — not a meme, my daily driver.</i>
 </p>
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```python
 class KerimKurt:
@@ -39,9 +38,12 @@ class KerimKurt:
         self.name = "Kerim"
         self.age = 15
         self.os = "Arch Linux"
-        self.country = "Turkiye"
+        self.de = "KDE Plasma (Wayland)"
+        self.shell = "zsh + ML4W dotfiles"
+        self.country = "Turkey"
         self.role = "Self-Taught Developer"
-        self.interests = ["Python", "AI", "CLI Tools", "Linux"]
+        self.drives = ["curiosity", "ambition", "break-build-learn"]
+        self.stack = ["Python", "Dart/Flutter", "JS", "Bash", "Linux"]
 
     def daily_routine(self):
         while True:
@@ -49,16 +51,19 @@ class KerimKurt:
             break_things()
             fix_things()
             learn_something_new()
+
+    def system(self):
+        return "~/bin + ~/.local/bin: dpi-bypass, zapret, cleanup scripts"
 ```
 
-🔭 Su an uzerinde calistigim: **KrackerBot** (AI asistan) & **zapret-gui**  
-🌱 Ogrenmekte oldugum: **Python**, **AI/ML**, **Electron**, **Siber Guvenlik**  
-💬 Bana sor: **Linux**, **Python**, **Arch Linux**, **Acik Kaynak**  
-⚡ Eglenceli gercek: Bilgisayarlari seviyorum ve her seyi kendi versiyonumu yapmayi seviyorum  
+🔭 Building now: **rubato** (local-first music player, Dart) + **dpicracker** (DPI bypass for TR) + **proxyveil** (proxy collector/TUI) + **Arena2api-fixed** (300+ models, 429 fix)
+🌱 Learning: **Dart/Flutter**, **AI agent architecture**, **networking/DPI**, **pentest**
+💬 Ask me: **Linux**, **Python**, **Arch Linux**, **DPI bypass**
+⚡ Fact: I don't use stock stuff, I write my own version. No break, no learn.
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="center">
   <a href="https://www.youtube.com/@kekurttel">
@@ -74,25 +79,24 @@ class KerimKurt:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffd343">
-  <img src="https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=electron&logoColor=47848F">
+  <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2">
+  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=2088FF">
   <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
-  <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
+  <img src="https://img.shields.io/badge/KDE_Plasma-000?style=for-the-badge&logo=kdeplasma&logoColor=1D99F3">
+  <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=003B57">
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://gh-readme-stats.vercel.app/api?username=kekurttel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%">
@@ -105,23 +109,23 @@ class KerimKurt:
 
 ---
 
-## 📌 Highlighted Projects
+## Highlighted Projects
 
 <p align="center">
-  <a href="https://github.com/kekurttel/-KrackerBot-">
-    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=-KrackerBot-&theme=tokyonight&hide_border=true&bg_color=0d1117">
+  <a href="https://github.com/kekurttel/rubato">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=rubato&theme=tokyonight&hide_border=true&bg_color=0d1117">
   </a>
-  <a href="https://github.com/kekurttel/zapret-gui">
-    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=zapret-gui&theme=tokyonight&hide_border=true&bg_color=0d1117">
+  <a href="https://github.com/kekurttel/dpicracker">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=dpicracker&theme=tokyonight&hide_border=true&bg_color=0d1117">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kekurttel/deb2arch">
-    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=deb2arch&theme=tokyonight&hide_border=true&bg_color=0d1117">
+  <a href="https://github.com/kekurttel/proxyveil">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=proxyveil&theme=tokyonight&hide_border=true&bg_color=0d1117">
   </a>
-  <a href="https://github.com/kekurttel/FastMcp">
-    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=FastMcp&theme=tokyonight&hide_border=true&bg_color=0d1117">
+  <a href="https://github.com/kekurttel/Arena2api-fixed">
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=kekurttel&repo=Arena2api-fixed&theme=tokyonight&hide_border=true&bg_color=0d1117">
   </a>
 </p>
 
@@ -132,7 +136,6 @@ class KerimKurt:
 </p>
 
 <p align="center">
-  <b>📫 Bana ulasmak icin:</b><br>
-  Telegram: <a href="https://t.me/kerimkr">@kerimkr</a><br>
-  YouTube: <a href="https://www.youtube.com/@kekurttel">@kekurttel</a>
+  <b>Reach me:</b><br>
+  Telegram: <a href="https://t.me/kerimkr">@kerimkr</a>
 </p>
