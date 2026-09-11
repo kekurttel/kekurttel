@@ -40,7 +40,7 @@ class KerimKurt:
         self.os = "Arch Linux"
         self.de = "KDE Plasma (Wayland)"
         self.shell = "zsh + "Quickshell setup"
-        self.love = "hyprlandé
+        self.love = "hyprland"
         self.country = "Turkey"
         self.role = "Self-Taught Developer"
         self.drives = ["curiosity", "ambition", "break-build-learn"]
