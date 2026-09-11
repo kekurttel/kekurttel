@@ -39,7 +39,8 @@ class KerimKurt:
         self.age = 15
         self.os = "Arch Linux"
         self.de = "KDE Plasma (Wayland)"
-        self.shell = "zsh + ML4W dotfiles"
+        self.shell = "zsh + "Quickshell setup"
+        self.love = "hyprlandé
         self.country = "Turkey"
         self.role = "Self-Taught Developer"
         self.drives = ["curiosity", "ambition", "break-build-learn"]
